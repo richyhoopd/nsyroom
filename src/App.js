@@ -235,7 +235,7 @@ function App() {
           </div>
                     <div className="flex flex-col items-center text-center mb-12">
             <div className="handwritten text-red-600 text-sm mb-6 uppercase tracking-wider">
-              → Latest Drop / Out Now
+              <a href="https://open.spotify.com/intl-es/track/7cVmNifFmJ0meji8rpW82s?si=db2c0b586fa34997" target="_blank" rel="noopener noreferrer">→ Latest Drop / Out Now</a>
             </div>
           </div>
           
@@ -356,13 +356,13 @@ function App() {
               NOISY<br className="md:hidden" /> ROOM
             </h2>
             <div className="flex gap-12">
-              <a href="#" className="text-white hover:text-red-600 transition-colors text-sm uppercase tracking-widest">
+              <a href="https://instagram.com/nsyroom" className="text-white hover:text-red-600 transition-colors text-sm uppercase tracking-widest">
                 Instagram
               </a>
-              <a href="#" className="text-white hover:text-red-600 transition-colors text-sm uppercase tracking-widest">
+              <a href="https://open.spotify.com/intl-es/artist/19E6LQOIxfzT892ZuAib03?si=LarL_79lSIC_zzYF_rP9vA" className="text-white hover:text-red-600 transition-colors text-sm uppercase tracking-widest">
                 Spotify
               </a>
-              <a href="#" className="text-white hover:text-red-600 transition-colors text-sm uppercase tracking-widest">
+              <a href="https://open.spotify.com/intl-es/artist/19E6LQOIxfzT892ZuAib03?si=LarL_79lSIC_zzYF_rP9vA" className="text-white hover:text-red-600 transition-colors text-sm uppercase tracking-widest">
                 Bandcamp
               </a>
             </div>
@@ -370,10 +370,10 @@ function App() {
           <div className="rough-line mb-8"></div>
           <div className="flex flex-col md:flex-row justify-between items-start md:items-center">
             <div className="street-style text-white/40 text-xs mb-4 md:mb-0">
-              © 2025 NOISY ROOM. ALL RIGHTS RESERVED OR WHATEVER.
+              © 2025 NOISY ROOM. ALL RIGHTS RESERVED OR WHATEVER LOL.
             </div>
             <div className="handwritten text-white/60 text-sm">
-              Made with too much coffee in Brooklyn
+              Hecho con mucho cafe una noche desde Guadalajara, Mexico.
             </div>
           </div>
         </div>
